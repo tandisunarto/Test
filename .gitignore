@@ -31,6 +31,8 @@ bld/
 [Ll]og/
 [Ll]ogs/
 */WebAPI/[Bb]in/
+*/WebAPI/[Oo]bj/
+*/WebApp/[Bb]in/
 */WebApp/[Oo]bj/
 
 # Visual Studio 2015/2017 cache/options directory
