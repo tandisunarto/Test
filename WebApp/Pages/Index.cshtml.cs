@@ -16,7 +16,7 @@ namespace WebApp.Pages
 
         public void OnGet()
         {
-            ViewData["Greeting"] = _configuration.GetValue<string>("Greeting");
+            ViewData["Greeting"] = _configuration.GetValue<string>("Messages:Greeting");
         }
     }
 }
