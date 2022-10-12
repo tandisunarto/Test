@@ -5,5 +5,9 @@
         public void Foo()
         {
         }
+
+        public void Bar()
+        {
+        }
     }
 }
