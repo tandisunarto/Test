@@ -9,5 +9,9 @@
         public void Bar()
         {
         }
+
+        public void Today()
+        {
+        }
     }
 }
