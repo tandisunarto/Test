@@ -1,5 +1,6 @@
 ﻿namespace ClassLibrary1
 {
+    // comment #2
     // comment #1
     public class Class1
     {
